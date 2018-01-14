@@ -41,4 +41,4 @@ After fetching the file you can access the variables by:
 
 an example quote:
   >Talk is cheap. Show me the code.
-  > "-" Linus Torvalds
+  >- Linus Torvalds
