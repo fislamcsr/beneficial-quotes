@@ -1,26 +1,30 @@
 [
-  {
-  "quote":"Talk is cheap. Show me the code.",
-  "author":"Linus Torvalds"
-  },
-  {
-  "quote":"when you don't create things, you become defined by your tastes rather than ability. your tastes only narrow & exclude people. so create.",
-  "author":"Why The Lucky Stiff"
-  },
-  {
-  "quote":"Programs must be written for people to read, and only incidentally for machines to execute.",
-  "author":"Harold Abelson, Structure and Interpretation of Computer Programs"
-  },
-  {
-  "quote":"Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live",
-  "author":"John Woods"
-  },
-  {
-  "quote":"Well, Mr. Frankel, who started this program, began to suffer from the computer disease that anybody who works with computers now knows about. It's a very serious disease and it interferes completely with the work. The trouble with computers is you *play* with them. They are so wonderful. You have these switches - if it's an even number you do this, if it's an odd number you do that - and pretty soon you can do more and more elaborate things if you are clever enough, on one machine. After a while the whole system broke down. Frankel wasn't paying any attention; he wasn't supervising anybody. The system was going very, very slowly - while he was sitting in a room figuring out how to make one tabulator automatically print arc-tangent X, and then it would start and it would print columns and then bitsi, bitsi, bitsi, and calculate the arc-tangent automatically by integrating as it went along and make a whole table in one operation. Absolutely useless. We *had* tables of arc-tangents. But if you've ever worked with computers, you understand the disease - the *delight* in being able to see how much you can do. But he got the disease for the first time, the poor fellow who invented the thing.",
-  "author":"Richard Feynman, Surely You're Joking, Mr. Feynman!: Adventures of a Curious Character"
-  },
-  {
-  "quote":"Programming today is a race between software engineers striving to build bigger and better idiot-proof programs, and the Universe trying to produce bigger and better idiots. So far, the Universe is winning.",
-  "author":"Rick Cook, The Wizardry Compiled"
-  }
+  {"quote":"Talk is cheap. Show me the code.",
+  "author":"Linus Torvalds"},
+  {"quote":"when you don't create things, you become defined by your tastes rather than ability. your tastes only narrow & exclude people. so create.",
+  "author":"Why The Lucky Stiff"},
+  {"quote":"Programs must be written for people to read, and only incidentally for machines to execute.",
+  "author":"Harold Abelson, Structure and Interpretation of Computer Programs"},
+  {"quote":"Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live",
+  "author":"John Woods"},
+  {"quote":"That's the thing about people who think they hate computers. What they really hate is lousy programmers.",
+  "author":"Larry Niven"},
+  {"quote":"Give a man a program, frustrate him for a day. Teach a man to program, frustrate him for a lifetime.",
+  "author":"Waseem Latif"},
+  {"quote":"The best programs are written so that computing machines can perform them quickly and so that human beings can understand them clearly. A programmer is ideally an essayist who works with traditional aesthetic and literary forms as well as mathematical concepts, to communicate the way that an algorithm works and to convince a reader that the results will be correct.",
+  "author":"Donald Ervin Knuth, Selected Papers on Computer Science"},
+  {"quote":"How you look at it is pretty much how you'll see it",
+  "author":"Rasheed Ogunlaru"},
+  {"quote":"You've baked a really lovely cake, but then you've used dog shit for frosting.",
+  "author":"Steve Jobs"},
+  {"quote":"I'm not a great programmer; I'm just a good programmer with great habits.",
+  "author":"Kent Beck"},
+  {"quote":"Everyone knows that debugging is twice as hard as writing a program in the first place. So if you're as clever as you can be when you write it, how will you ever debug it?",
+  "author":"Brian W. Kernighan"},
+  {"quote":"Truth can only be found in one place: the code.",
+  "author":"Robert C. Martin, Clean Code: A Handbook of Agile Software Craftsmanship"},
+  {"quote":"A language that doesn't affect the way you think about programming is not worth knowing.",
+  "author":"Alan J. Perlis"},
+  {"quote":"Walking on water and developing software from a specification are easy if both are frozen.",
+  "author":"Edward Berard"}
 ]
