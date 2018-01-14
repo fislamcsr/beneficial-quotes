@@ -1,4 +1,4 @@
-var quotes = ]
+var quotes = [
   {"quote":"Talk is cheap. Show me the code.",
   "author":"Linus Torvalds"},
   {"quote":"Walking on water and developing software from a specification are easy if both are frozen.",
