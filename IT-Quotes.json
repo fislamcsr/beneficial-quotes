@@ -1,4 +1,4 @@
-getQuote(
+var quotes = 
 {
   "1": {"quote":"Talk is cheap. Show me the code.",
   "author":"Linus Torvalds"},
@@ -12,5 +12,5 @@ getQuote(
   "author":"Robert C. Martin, Clean Code: A Handbook of Agile Software Craftsmanship"},
   "6": {"quote":"A language that doesn't affect the way you think about programming is not worth knowing.",
   "author":"Alan J. Perlis"}
-});
+};
 
