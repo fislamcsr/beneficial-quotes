@@ -35,9 +35,10 @@ After fetching the file you can access the variables by:
 ```javascript
     $.getJSON("https://github.com/fislamcsr/beneficial-quotes/blob/master/IT-Quotes.json", function(json) {
     $(".quote-text").html(json.[1].quote); // used numbers for easy iteration
-    $(".quote-author").html(json.[1].author); // as 1 is not allowed as a variable name need to use []
+    $(".quote-author").html(json.[1].author); // as 1 is not allowed as a variable name, need to use [].
     });
 ```
 
+an example quote:
   >Talk is cheap. Show me the code.
-  > - Linus Torvalds
+  > "-" Linus Torvalds
