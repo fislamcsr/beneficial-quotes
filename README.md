@@ -20,9 +20,9 @@ This is a repository of beneficial quotes in JSON format!
 }
 ```
 
-Here the JSON has an nested objects with the `variables` as follows:
+Here the JSON has a nested objects with the `variables` as follows:
 - Object
-  - Object.1:
+  - Object.[1]:
     - Object.[1].quote
     - Object.[1].author
   - Object.2:
@@ -34,8 +34,8 @@ After fetching the file you can access the variables by:
 #### jQuery Example:
 ```javascript
     $.getJSON("https://github.com/fislamcsr/beneficial-quotes/blob/master/IT-Quotes.json", function(json) {
-    $(".quote-text").html(json.[1].quote);
-    $(".quote-author").html(json.[1].author);
+    $(".quote-text").html(json.[1].quote); // used numbers for easy iteration
+    $(".quote-author").html(json.[1].author); // as 1 is not allowed as a variable name need to use []
     });
 ```
 
