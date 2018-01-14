@@ -33,7 +33,7 @@ After fetching the file you can access the variables by:
 
 #### jQuery Example:
 ```javascript
-    $.getJSON("https://github.com/fislamcsr/beneficial-quotes/blob/master/IT-Quotes.json", function(json) {
+    $.getJSON("https://raw.githubusercontent.com/fislamcsr/beneficial-quotes/master/IT-Quotes.json", function(json) {
     $(".quote-text").html(json.[1].quote); // used numbers for easy iteration
     $(".quote-author").html(json.[1].author); // as 1 is not allowed as a variable name, need to use [].
     });
